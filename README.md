@@ -1,2 +1,2 @@
 # CppFizzBuzz
-C++ FizzBuzz
+Mostly TDD FizzBuzz implementation in C++ with gtest.
